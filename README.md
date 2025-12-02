@@ -1,3 +1,1 @@
-# stock-price
-This project comprises of different modules, which range from financial data ETL to financial analyses.
-Data is mainly taken from Yahoo Finance
+# This is where I posted all the ideas / projects related to finance that I have done and am still working on so far. The topics include but are not limited to: Investment Porfolio Management / Optimization, Stock Analysis, Saving Plan Construction / Comparison, etc.
